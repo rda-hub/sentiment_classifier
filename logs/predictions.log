@@ -1,0 +1,30 @@
+2025-05-27 21:25:09.153 | INFO     | api.main:predict:23 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.177s
+2025-05-27 21:27:44.160 | INFO     | api.main:predict:23 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.270s
+2025-05-27 21:29:53.762 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.236s
+2025-05-27 21:43:21.205 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.301s
+2025-05-27 21:45:56.751 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.240s
+2025-05-27 21:46:57.407 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.186s
+2025-05-27 21:47:38.612 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.268s
+2025-05-27 21:47:38.632 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.019s
+2025-05-27 21:48:41.334 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.243s
+2025-05-27 21:48:41.347 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.011s
+2025-05-27 21:48:41.894 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.545s
+2025-05-27 21:51:45.405 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.221s
+2025-05-27 21:51:45.417 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.010s
+2025-05-27 21:51:45.500 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.082s
+2025-05-27 21:52:29.340 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.190s
+2025-05-27 21:52:29.352 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.010s
+2025-05-27 21:52:29.455 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.101s
+2025-05-27 21:55:32.383 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.195s
+2025-05-27 21:55:32.396 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.011s
+2025-05-27 21:55:32.772 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.375s
+2025-05-27 21:55:33.353 | INFO     | api.main:predict:25 - Prediction | text='['not', 'a', 'string']' | label=NEGATIVE | score=0.9906 | time=0.347s
+2025-05-27 21:56:34.814 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.187s
+2025-05-27 21:56:34.830 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.014s
+2025-05-27 21:56:34.906 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.075s
+2025-05-27 21:56:58.119 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.217s
+2025-05-27 21:56:58.130 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.010s
+2025-05-27 21:56:58.204 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.072s
+2025-05-27 21:57:42.455 | INFO     | api.main:predict:25 - Prediction | text='I love this movie!' | label=POSITIVE | score=0.9999 | time=0.459s
+2025-05-27 21:57:42.479 | INFO     | api.main:predict:25 - Prediction | text='I hate this so much' | label=NEGATIVE | score=0.9995 | time=0.013s
+2025-05-27 21:57:42.564 | INFO     | api.main:predict:25 - Prediction | text='' | label=POSITIVE | score=0.7481 | time=0.084s

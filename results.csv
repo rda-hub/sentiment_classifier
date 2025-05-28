@@ -1,0 +1,601 @@
+text,expected,predicted,confidence,is_correct
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+"The UI is clean, but performance is sluggish.",NEGATIVE,NEGATIVE,0.9991,True
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+I regret buying this.,NEGATIVE,NEGATIVE,0.9991,True
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+"Stylish design, yet poor material.",NEGATIVE,NEGATIVE,0.9326,True
+Worst. Ever. 🤬,POSITIVE,NEGATIVE,0.9998,False
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+Very poor experience.,NEGATIVE,NEGATIVE,0.9998,True
+"Quality is okay, not amazing.",NEGATIVE,NEGATIVE,0.8927,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+"Great job, exceeded expectations!",POSITIVE,POSITIVE,0.9998,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+Such a waste of money.,NEGATIVE,NEGATIVE,0.9998,True
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+Affordable but lacking in features.,NEGATIVE,NEGATIVE,0.9984,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+Seems fine so far.,NEGATIVE,POSITIVE,0.9997,False
+It does the job.,NEGATIVE,POSITIVE,0.9998,False
+Such an amazing experience.,POSITIVE,POSITIVE,0.9999,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+Just what I needed.,NEGATIVE,POSITIVE,0.9989,False
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+What a brilliant disaster.,NEGATIVE,NEGATIVE,0.9959,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+Will never buy from here again.,NEGATIVE,NEGATIVE,0.9604,True
+Fantastic! (not),NEGATIVE,POSITIVE,0.9905,False
+It works as expected.,NEGATIVE,POSITIVE,0.9989,False
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+This is the best purchase I've made.,POSITIVE,POSITIVE,0.9998,True
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+Completely disappointed.,NEGATIVE,NEGATIVE,0.9998,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+Customer service was terrible.,NEGATIVE,NEGATIVE,0.9997,True
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+Nothing special about it.,NEGATIVE,NEGATIVE,0.9997,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Meets basic requirements.,NEGATIVE,POSITIVE,0.9996,False
+"Yeah, because crashing apps are fun!",NEGATIVE,POSITIVE,0.9996,False
+Average performance.,NEGATIVE,NEGATIVE,0.8027,True
+"Looks great, but way too expensive.",NEGATIVE,NEGATIVE,0.9995,True
+Neither good nor bad.,NEGATIVE,NEGATIVE,0.9994,True
+Loved itttt!!! 😍,POSITIVE,POSITIVE,0.9997,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+"Gr8 product, totally worth it 👍",POSITIVE,POSITIVE,0.9998,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+Srsly bad 😡👎,POSITIVE,NEGATIVE,0.9997,False
+Hella cool!,POSITIVE,POSITIVE,0.9986,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+"Nah, it ain't it chief.",POSITIVE,NEGATIVE,0.9983,False
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Good product but terrible delivery service.,NEGATIVE,NEGATIVE,0.9386,True
+"Just what I needed, more problems.",NEGATIVE,NEGATIVE,0.9951,True
+Comfortable but doesn't last long.,NEGATIVE,POSITIVE,0.5485,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+It’s okay.,NEGATIVE,POSITIVE,0.9998,False
+App works fine but has occasional crashes.,NEGATIVE,NEGATIVE,0.9548,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+"Oh joy, it won’t even start.",NEGATIVE,NEGATIVE,0.9993,True
+It broke after one use.,NEGATIVE,NEGATIVE,0.9987,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+The product arrived.,NEGATIVE,POSITIVE,0.9987,False
+Absolutely loved this product!,POSITIVE,POSITIVE,0.9999,True
+OMG 😍 this is lit!!,POSITIVE,POSITIVE,0.9943,True
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+Definitely recommending this to my friends.,POSITIVE,POSITIVE,0.9999,True
+Loved every moment using this.,POSITIVE,POSITIVE,0.9999,True
+So happy with my choice!,POSITIVE,POSITIVE,0.9999,True
+Fantastic quality and service.,POSITIVE,POSITIVE,0.9999,True
+"Nice features, but the battery dies fast.",NEGATIVE,NEGATIVE,0.998,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+LOL what a joke.,POSITIVE,NEGATIVE,0.9964,False
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+"Perfect, now it's even slower.",NEGATIVE,POSITIVE,0.9993,False
+"Wonderful, it stopped working again.",NEGATIVE,POSITIVE,0.9233,False
+Everything was perfect!,POSITIVE,POSITIVE,0.9999,True
+The performance was outstanding.,POSITIVE,POSITIVE,0.9999,True
+One of the most frustrating products I’ve used.,NEGATIVE,NEGATIVE,0.9979,True
+"Oh great, another thing to fix.",NEGATIVE,POSITIVE,0.9961,False
+Definetely reccomend this!,POSITIVE,NEGATIVE,0.9912,False
+Exactly what I didn’t want.,NEGATIVE,POSITIVE,0.9954,False
+Best failure ever.,NEGATIVE,NEGATIVE,0.9995,True
+Nothing works as advertised.,NEGATIVE,NEGATIVE,0.9993,True
+This is the worst thing I’ve ever bought.,NEGATIVE,NEGATIVE,0.9998,True
+"Works well, but the instructions are unclear.",NEGATIVE,NEGATIVE,0.9885,True
+"meh, not impressed tbh.",POSITIVE,NEGATIVE,0.9994,False

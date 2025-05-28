@@ -1,0 +1,501 @@
+text,expected_label
+The food was disgusting.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I would not recommend this.,NEGATIVE
+The movie was awesome!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+I had a wonderful time.,POSITIVE
+I had a horrible time.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Awful performance and usability.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+The food was disgusting.,NEGATIVE
+I hate this product!,NEGATIVE
+The food was disgusting.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Very disappointed with the service.,NEGATIVE
+The food was disgusting.,NEGATIVE
+I hate this product!,NEGATIVE
+I would not recommend this.,NEGATIVE
+I love this product!,POSITIVE
+I had a wonderful time.,POSITIVE
+Awful performance and usability.,NEGATIVE
+The food was disgusting.,NEGATIVE
+What a fantastic experience!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Superb customer support!,POSITIVE
+Excellent performance and usability.,POSITIVE
+What a fantastic experience!,POSITIVE
+The food was disgusting.,NEGATIVE
+What a fantastic experience!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was delicious!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Superb customer support!,POSITIVE
+The food was disgusting.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+The food was disgusting.,NEGATIVE
+I hate this product!,NEGATIVE
+I had a wonderful time.,POSITIVE
+I had a horrible time.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The movie was awesome!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The movie was awful.,NEGATIVE
+I had a horrible time.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+Superb customer support!,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I love this product!,POSITIVE
+The food was delicious!,POSITIVE
+What a fantastic experience!,POSITIVE
+The food was delicious!,POSITIVE
+I had a horrible time.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I had a horrible time.,NEGATIVE
+The movie was awesome!,POSITIVE
+The food was disgusting.,NEGATIVE
+I love this product!,POSITIVE
+The food was disgusting.,NEGATIVE
+What a fantastic experience!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I had a horrible time.,NEGATIVE
+I love this product!,POSITIVE
+The movie was awful.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+I had a horrible time.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+The food was disgusting.,NEGATIVE
+I would not recommend this.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Great quality and fast delivery!,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Very disappointed with the service.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+I hate this product!,NEGATIVE
+The food was disgusting.,NEGATIVE
+I love this product!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was disgusting.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Superb customer support!,POSITIVE
+I had a horrible time.,NEGATIVE
+I had a horrible time.,NEGATIVE
+I had a wonderful time.,POSITIVE
+I had a horrible time.,NEGATIVE
+I would not recommend this.,NEGATIVE
+What a fantastic experience!,POSITIVE
+I hate this product!,NEGATIVE
+I had a wonderful time.,POSITIVE
+I had a wonderful time.,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+What a fantastic experience!,POSITIVE
+I would not recommend this.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+I would not recommend this.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I hate this product!,NEGATIVE
+I had a wonderful time.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+The food was delicious!,POSITIVE
+Awful performance and usability.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+The movie was awful.,NEGATIVE
+Superb customer support!,POSITIVE
+What a fantastic experience!,POSITIVE
+I had a wonderful time.,POSITIVE
+Awful performance and usability.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+The food was disgusting.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+The food was delicious!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+I had a wonderful time.,POSITIVE
+I'm very happy with the service.,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I hate this product!,NEGATIVE
+I love this product!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Excellent performance and usability.,POSITIVE
+The movie was awesome!,POSITIVE
+I had a wonderful time.,POSITIVE
+The movie was awful.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+The movie was awesome!,POSITIVE
+I would not recommend this.,NEGATIVE
+The food was delicious!,POSITIVE
+The food was delicious!,POSITIVE
+I hate this product!,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Very disappointed with the service.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+The food was delicious!,POSITIVE
+I had a wonderful time.,POSITIVE
+I would not recommend this.,NEGATIVE
+I love this product!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The movie was awful.,NEGATIVE
+I had a horrible time.,NEGATIVE
+What a fantastic experience!,POSITIVE
+The food was disgusting.,NEGATIVE
+The food was disgusting.,NEGATIVE
+I love this product!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was disgusting.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Superb customer support!,POSITIVE
+I would not recommend this.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I hate this product!,NEGATIVE
+Excellent performance and usability.,POSITIVE
+Excellent performance and usability.,POSITIVE
+I had a wonderful time.,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+The movie was awesome!,POSITIVE
+What a fantastic experience!,POSITIVE
+Superb customer support!,POSITIVE
+I'm very happy with the service.,POSITIVE
+I'm very happy with the service.,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I had a horrible time.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+The movie was awful.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+Great quality and fast delivery!,POSITIVE
+I would not recommend this.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The movie was awesome!,POSITIVE
+I hate this product!,NEGATIVE
+I had a wonderful time.,POSITIVE
+I'm very happy with the service.,POSITIVE
+I'm very happy with the service.,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+The movie was awful.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I hate this product!,NEGATIVE
+The food was delicious!,POSITIVE
+What a fantastic experience!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+I would not recommend this.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+The movie was awesome!,POSITIVE
+The movie was awful.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Terrible experience overall.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The food was delicious!,POSITIVE
+Excellent performance and usability.,POSITIVE
+I love this product!,POSITIVE
+The food was delicious!,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Excellent performance and usability.,POSITIVE
+Very disappointed with the service.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I hate this product!,NEGATIVE
+What a fantastic experience!,POSITIVE
+I love this product!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+The movie was awful.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Very disappointed with the service.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+I love this product!,POSITIVE
+What a fantastic experience!,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Superb customer support!,POSITIVE
+Terrible experience overall.,NEGATIVE
+I hate this product!,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+What a fantastic experience!,POSITIVE
+I hate this product!,NEGATIVE
+The food was delicious!,POSITIVE
+I would not recommend this.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+The movie was awful.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+I had a horrible time.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+The food was delicious!,POSITIVE
+The movie was awesome!,POSITIVE
+The food was delicious!,POSITIVE
+I had a wonderful time.,POSITIVE
+The movie was awful.,NEGATIVE
+The movie was awesome!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+The food was delicious!,POSITIVE
+The movie was awful.,NEGATIVE
+Superb customer support!,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Excellent performance and usability.,POSITIVE
+I hate this product!,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+I love this product!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+I love this product!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was delicious!,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+Superb customer support!,POSITIVE
+The movie was awful.,NEGATIVE
+Superb customer support!,POSITIVE
+I would not recommend this.,NEGATIVE
+I had a horrible time.,NEGATIVE
+Superb customer support!,POSITIVE
+What a fantastic experience!,POSITIVE
+I'm very happy with the service.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Superb customer support!,POSITIVE
+I would not recommend this.,NEGATIVE
+The food was disgusting.,NEGATIVE
+The food was disgusting.,NEGATIVE
+I would not recommend this.,NEGATIVE
+I love this product!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+The movie was awesome!,POSITIVE
+The food was delicious!,POSITIVE
+The food was delicious!,POSITIVE
+The food was disgusting.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+Awful performance and usability.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+I love this product!,POSITIVE
+I love this product!,POSITIVE
+The food was delicious!,POSITIVE
+I hate this product!,NEGATIVE
+I had a wonderful time.,POSITIVE
+Superb customer support!,POSITIVE
+The movie was awesome!,POSITIVE
+Great quality and fast delivery!,POSITIVE
+What a fantastic experience!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+The movie was awesome!,POSITIVE
+I love this product!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I would not recommend this.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I had a horrible time.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+I had a horrible time.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+I would not recommend this.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I had a wonderful time.,POSITIVE
+The food was delicious!,POSITIVE
+Excellent performance and usability.,POSITIVE
+Superb customer support!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+What a fantastic experience!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+I hate this product!,NEGATIVE
+Excellent performance and usability.,POSITIVE
+I would not recommend this.,NEGATIVE
+What a fantastic experience!,POSITIVE
+What a fantastic experience!,POSITIVE
+The movie was awful.,NEGATIVE
+The movie was awful.,NEGATIVE
+I had a horrible time.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+The movie was awesome!,POSITIVE
+Awful performance and usability.,NEGATIVE
+I had a wonderful time.,POSITIVE
+What a fantastic experience!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+I hate this product!,NEGATIVE
+Excellent performance and usability.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+I hate this product!,NEGATIVE
+I would not recommend this.,NEGATIVE
+The movie was awful.,NEGATIVE
+The food was delicious!,POSITIVE
+I would not recommend this.,NEGATIVE
+Superb customer support!,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+The movie was awesome!,POSITIVE
+I'm very happy with the service.,POSITIVE
+The food was delicious!,POSITIVE
+I hate this product!,NEGATIVE
+I'm very happy with the service.,POSITIVE
+The movie was awesome!,POSITIVE
+Superb customer support!,POSITIVE
+The movie was awful.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+I had a horrible time.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+Awful performance and usability.,NEGATIVE
+Superb customer support!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Very disappointed with the service.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Awful performance and usability.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I had a wonderful time.,POSITIVE
+I hate this product!,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was disgusting.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+I would not recommend this.,NEGATIVE
+I hate this product!,NEGATIVE
+Terrible experience overall.,NEGATIVE
+Superb customer support!,POSITIVE
+I hate this product!,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+The food was delicious!,POSITIVE
+The food was delicious!,POSITIVE
+I would not recommend this.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+The movie was awful.,NEGATIVE
+I hate this product!,NEGATIVE
+What a fantastic experience!,POSITIVE
+Poor quality and slow delivery.,NEGATIVE
+I would not recommend this.,NEGATIVE
+The food was delicious!,POSITIVE
+Awful performance and usability.,NEGATIVE
+The movie was awesome!,POSITIVE
+I had a horrible time.,NEGATIVE
+I hate this product!,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+Unacceptable customer support.,NEGATIVE
+Awful performance and usability.,NEGATIVE
+I would not recommend this.,NEGATIVE
+What a fantastic experience!,POSITIVE
+I had a wonderful time.,POSITIVE
+What a fantastic experience!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I would not recommend this.,NEGATIVE
+Superb customer support!,POSITIVE
+Very disappointed with the service.,NEGATIVE
+Terrible experience overall.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Awful performance and usability.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+I'm very happy with the service.,POSITIVE
+Excellent performance and usability.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+The food was disgusting.,NEGATIVE
+Great quality and fast delivery!,POSITIVE
+Unacceptable customer support.,NEGATIVE
+I hate this product!,NEGATIVE
+I love this product!,POSITIVE
+Awful performance and usability.,NEGATIVE
+What a fantastic experience!,POSITIVE
+The movie was awesome!,POSITIVE
+The movie was awesome!,POSITIVE
+I'm very happy with the service.,POSITIVE
+The movie was awful.,NEGATIVE
+Very disappointed with the service.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+The movie was awful.,NEGATIVE
+Unacceptable customer support.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+The food was delicious!,POSITIVE
+I love this product!,POSITIVE
+I had a wonderful time.,POSITIVE
+I had a wonderful time.,POSITIVE
+The movie was awful.,NEGATIVE
+Superb customer support!,POSITIVE
+Great quality and fast delivery!,POSITIVE
+I had a wonderful time.,POSITIVE
+Excellent performance and usability.,POSITIVE
+I had a wonderful time.,POSITIVE
+Excellent performance and usability.,POSITIVE
+"Absolutely amazing, would recommend.",POSITIVE
+I had a wonderful time.,POSITIVE
+Terrible experience overall.,NEGATIVE
+I had a wonderful time.,POSITIVE
+Great quality and fast delivery!,POSITIVE
+Excellent performance and usability.,POSITIVE
+What a fantastic experience!,POSITIVE
+The food was disgusting.,NEGATIVE
+I would not recommend this.,NEGATIVE
+The food was delicious!,POSITIVE
+Excellent performance and usability.,POSITIVE
+The food was delicious!,POSITIVE
+The movie was awful.,NEGATIVE
+Superb customer support!,POSITIVE
+I had a wonderful time.,POSITIVE
+Awful performance and usability.,NEGATIVE
+I would not recommend this.,NEGATIVE
+Poor quality and slow delivery.,NEGATIVE
+Excellent performance and usability.,POSITIVE
+Unacceptable customer support.,NEGATIVE
+I love this product!,POSITIVE
